@@ -21,6 +21,7 @@ public class Juego {
         if (true) {
             
         }
+        System.out.println("Hola ");
     }
     
     public void ImprimeArray(){
