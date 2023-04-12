@@ -17,6 +17,12 @@ public class Juego {
         array_board[6] = "W";
     }
     
+    public void MakeaMove(){
+        if (true) {
+            
+        }
+    }
+    
     public void ImprimeArray(){
         for (int i = 0; i < array_board.length; i++) {
             System.out.println("Los datos son :"+array_board[i]);
